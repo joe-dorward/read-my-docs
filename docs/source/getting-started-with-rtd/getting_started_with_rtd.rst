@@ -1,9 +1,9 @@
 Getting Started With RTD
 ########################
 
-.. class:: center
+.. raw:: html
 
-*This paragraph will be centered.*
+<p>This paragraph will be centered.</p>
 
 1. Sign-in to an existing ``github.com`` account or sign-up for a github.com account (it's free)
 
