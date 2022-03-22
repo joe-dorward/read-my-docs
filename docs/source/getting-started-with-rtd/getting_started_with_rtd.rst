@@ -17,6 +17,6 @@ Getting Started With RTD
 
   If you've done everything right, Read the Docs will build your project automatically, generating your content as a sub-domain of Read the Docs.
   
-  Form: https:\\/\\/<project-name>.readthedocs.io/en/latest/index.html
+  Form: https:\/\/<project-name>.readthedocs.io/en/latest/index.html
   
   Example: https://read-my-docs.readthedocs.io/en/latest/index.html
