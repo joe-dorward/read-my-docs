@@ -3,7 +3,7 @@ Getting Started With RTD
 
 .. raw:: html
 
-  <p style="text-align:center; text-style:italic;">This paragraph will be centered.</p>
+  <p style="text-align:center; font-style:italic;">These are the high-level steps - see: https://docs.readthedocs.io/en/stable/tutorial/ for the details.</p>
 
 1. Sign-in to an existing ``github.com`` account or sign-up for a github.com account (it's free)
 
